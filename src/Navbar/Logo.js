@@ -1,4 +1,3 @@
-import Icone from "./Icone"
 import LogoDesktop from "./LogoDesktop"
 import LogoMobile from "./LogoMobile"
 

@@ -1,4 +1,4 @@
-import Icone from "./Icone"
+import Icone from "../Icone"
 import Acoes from "./Acoes"
 import Curtidas from "./Curtidas"
 

@@ -1,6 +1,6 @@
-import Navbar from "./Navbar"
-import Corpo from "./Corpo"
-import Fundo from "./Fundo"
+import Navbar from "./Navbar/Navbar"
+import Corpo from "./Corpo/Corpo"
+import Fundo from "./Fundo/Fundo"
 
 export default function App(){
     return(

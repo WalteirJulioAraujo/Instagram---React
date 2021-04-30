@@ -1,4 +1,4 @@
-import Icone from "./Icone"
+import Icone from "../Icone"
 
 export default function LogoDesktop() {
   return (

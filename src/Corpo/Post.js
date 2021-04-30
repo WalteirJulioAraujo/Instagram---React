@@ -1,4 +1,4 @@
-import Icone from "./Icone";
+import Icone from "../Icone";
 import PostConteudo from "./PostConteudo";
 import PostFundo from "./PostFundo";
 import PostTopo from "./PostTopo"

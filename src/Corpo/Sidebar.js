@@ -8,7 +8,7 @@ import DireitoCopia from "./DireitoCopia"
 export default function Sidebar() {
   return (
     <div class="sidebar">
-      <Usuario />
+      <Usuario name="catanacomics" subname="Catana"/>
 
       <Sugestoes />
 

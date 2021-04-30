@@ -1,11 +1,10 @@
+import Icone from "./Icone"
+
 export default function Fundo(){
+    const lista = ["home","search-outline","add-circle-outline","heart-outline","person-outline"]
     return (
         <div class="fundo-mobile">
-            <ion-icon name="home"></ion-icon>
-            <ion-icon name="search-outline"></ion-icon>
-            <ion-icon name="add-circle-outline"></ion-icon>
-            <ion-icon name="heart-outline"></ion-icon>
-            <ion-icon name="person-outline"></ion-icon>
+            {lista.map((e)=><Icone name={e} />)}
         </div>
     );
 }

@@ -1,3 +1,5 @@
+import Icone from "./Icone"
+
 export default function LogoMobile() {
   return (
     <>

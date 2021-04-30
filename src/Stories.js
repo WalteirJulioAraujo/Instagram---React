@@ -1,4 +1,4 @@
-import Icone from "./Icone"
+
 import Setinha from "./Setinha"
 import Story from "./Story"
 
@@ -12,3 +12,4 @@ export default function Stories(){
         </div>
     );
 }
+
